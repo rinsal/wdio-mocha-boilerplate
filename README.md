@@ -105,7 +105,7 @@ Replace `beforeTest` function in wdio.conf js with following:
 ```json
     "report": "allure generate allure-results --clean && allure open",
 ```
-5. To take screenshot in package.json add:
+5. To take screenshot in wdio.conf.js add:
 ```javascript
     afterTest: function(test, context, { error, result, duration, passed, retries }) {
         if (!passed) {
