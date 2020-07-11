@@ -1,6 +1,6 @@
-# Webdriver IO Template
+## Webdriver IO Template
 
-## 1. Prerequisites
+### 1. Prerequisites
 #### 1.1. Node.js:
 Install the latest Node.js **Recommended For Most Users** from
 https://nodejs.org/en/
@@ -9,13 +9,9 @@ https://git-scm.com/
 #### 1.3. Install Java SE Development Kit:
 https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
-===
-
 ### Additional MacOS prerequisites:
 #### 1.4. Install Xcode:
 https://developer.apple.com/xcode/
-
-===
 
 ### Additional Windows prerequisites:
 #### 1.5. Install all the required tools and configurations using Microsoft's windows-build-tools:
