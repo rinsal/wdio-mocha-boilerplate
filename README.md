@@ -13,16 +13,7 @@ https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 #### 1.4. Install Xcode:
 https://developer.apple.com/xcode/
 
-### Additional Windows prerequisites:
-#### 1.5. Install all the required tools and configurations using Microsoft's windows-build-tools:
-Open Command Prompt **as administrator** and run the following script:
-````
-npm install --global --production windows-build-tools
-````
-#### 1.6. Install Python 2.7.
-https://www.python.org/downloads/release/python-2716/
-
-#### 1.7. Use Git Bash instead of using Windows Command Prompt (for WebStorm).
+#### 1.5. Use Git Bash instead of using Windows Command Prompt (for WebStorm).
 1. Open WebStorm
 2. Go to File => Settings
 3. Go to Tools => Terminal
